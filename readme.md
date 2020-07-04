@@ -15,7 +15,7 @@ To install it, you can simple run: `npm install -g serverless`.
 
 ### `Setting your servitor credentials into Serverless`
 
-You're going to need to configure your Cloud Server credentials. In this project we used AWS. Then you can run:
+You're going to need to configure your Cloud Server Credentials. In this project we used AWS. Then you can run:
 `serverless config credentials -o --provider aws --key=your_key --secret your_secret`.
 
 ### `Deploying the project`
