@@ -1,5 +1,5 @@
 <h1 align="center">
- Minify Images Serverless
+ AWS Lambda - Minify Images
 </h1>
 
 <p align="center">
