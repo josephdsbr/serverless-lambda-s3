@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-    This project minifies images to be used in production. It uses a Lambda Function from AWS S3 Service to dispatch the minify function when a new image is created.
+    This project minifies images to be used in production. It uses a Lambda Function from AWS Service to dispatch the minify function when a new image is created in S3.
 </p>
 
 ## Development
