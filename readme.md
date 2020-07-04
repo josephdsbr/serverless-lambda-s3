@@ -21,7 +21,7 @@ You're going to need to configure your Cloud Server Credentials. In this project
 ### `Deploying the project`
 
 As it's a Serverless project, most of the job is already done. You just have to run the script `npm run deploy`. 
-Then you can use, for example, the AWS CloudWatch to have access to the logs whenever a new image is uploaded in the configurated bucked and path.
+Then you can use, for example, the AWS CloudWatch to have access to the logs whenever a new image is uploaded in the configurated bucket and path.
 
 ## Tecnologies
 
